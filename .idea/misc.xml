@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/210970089/SHOWTICKET/app/src/main/res/drawable-v24/curvelayout.xml" value="0.172" />
+        <entry key="..\:/210970089/SHOWTICKET/app/src/main/res/drawable-v24/select_movie_curve.xml" value="0.172" />
+        <entry key="..\:/210970089/SHOWTICKET/app/src/main/res/drawable/curve_edit_text.xml" value="0.172" />
+        <entry key="..\:/210970089/SHOWTICKET/app/src/main/res/drawable/ic_baseline_help_24.xml" value="0.172" />
+        <entry key="..\:/210970089/SHOWTICKET/app/src/main/res/drawable/signin_edit_curve.xml" value="0.172" />
+        <entry key="..\:/210970089/SHOWTICKET/app/src/main/res/layout/activity_login.xml" value="0.2046875" />
+        <entry key="..\:/210970089/SHOWTICKET/app/src/main/res/layout/activity_main.xml" value="0.2046875" />
+        <entry key="..\:/210970089/SHOWTICKET/app/src/main/res/layout/activity_navigation.xml" value="0.2046875" />
+        <entry key="..\:/210970089/SHOWTICKET/app/src/main/res/layout/activity_signin.xml" value="0.2046875" />
+        <entry key="..\:/210970089/SHOWTICKET/app/src/main/res/layout/fragment_date_of_show.xml" value="0.16" />
+        <entry key="..\:/210970089/SHOWTICKET/app/src/main/res/layout/fragment_help.xml" value="0.25" />
+        <entry key="..\:/210970089/SHOWTICKET/app/src/main/res/layout/fragment_home.xml" value="0.2046875" />
+        <entry key="..\:/210970089/SHOWTICKET/app/src/main/res/layout/fragment_movie.xml" value="0.2046875" />
+        <entry key="..\:/210970089/SHOWTICKET/app/src/main/res/layout/fragment_notification.xml" value="0.1" />
+        <entry key="..\:/210970089/SHOWTICKET/app/src/main/res/layout/fragment_select_movie.xml" value="0.2046875" />
+        <entry key="..\:/210970089/SHOWTICKET/app/src/main/res/menu/menu.xml" value="0.2046875" />
+        <entry key="..\:/SHOWTICKET/app/src/main/res/drawable-v24/curvelayout.xml" value="0.2425" />
+        <entry key="..\:/SHOWTICKET/app/src/main/res/drawable-v24/profilecurve.xml" value="0.2425" />
+        <entry key="..\:/SHOWTICKET/app/src/main/res/drawable-v24/select_movie_curve.xml" value="0.2425" />
+        <entry key="..\:/SHOWTICKET/app/src/main/res/drawable/cardVIew_gold.xml" value="0.2425" />
+        <entry key="..\:/SHOWTICKET/app/src/main/res/drawable/curve_edit_text.xml" value="0.2425" />
+        <entry key="..\:/SHOWTICKET/app/src/main/res/drawable/gold.xml" value="0.2425" />
+        <entry key="..\:/SHOWTICKET/app/src/main/res/drawable/ic_baseline_help_24.xml" value="0.2425" />
+        <entry key="..\:/SHOWTICKET/app/src/main/res/drawable/platinum .xml" value="0.2425" />
+        <entry key="..\:/SHOWTICKET/app/src/main/res/drawable/platinum.xml" value="0.2425" />
+        <entry key="..\:/SHOWTICKET/app/src/main/res/drawable/round_button.xml" value="0.2425" />
+        <entry key="..\:/SHOWTICKET/app/src/main/res/drawable/signin_edit_curve.xml" value="0.2425" />
+        <entry key="..\:/SHOWTICKET/app/src/main/res/drawable/silver.xml" value="0.2425" />
+        <entry key="..\:/SHOWTICKET/app/src/main/res/layout/activity_main.xml" value="0.1362704918032787" />
+        <entry key="..\:/SHOWTICKET/app/src/main/res/layout/activity_navigation.xml" value="0.152" />
+        <entry key="..\:/SHOWTICKET/app/src/main/res/layout/activity_signin.xml" value="0.1362704918032787" />
+        <entry key="..\:/SHOWTICKET/app/src/main/res/layout/fragment_date_of_show.xml" value="0.1362704918032787" />
+        <entry key="..\:/SHOWTICKET/app/src/main/res/layout/fragment_help.xml" value="0.1362704918032787" />
+        <entry key="..\:/SHOWTICKET/app/src/main/res/layout/fragment_home.xml" value="0.1362704918032787" />
+        <entry key="..\:/SHOWTICKET/app/src/main/res/layout/fragment_movie.xml" value="0.1362704918032787" />
+        <entry key="..\:/SHOWTICKET/app/src/main/res/layout/fragment_movie__price_fragment.xml" value="0.1" />
+        <entry key="..\:/SHOWTICKET/app/src/main/res/layout/fragment_movie_price.xml" value="0.1362704918032787" />
+        <entry key="..\:/SHOWTICKET/app/src/main/res/layout/fragment_movie_price_fragment.xml" value="0.1362704918032787" />
+        <entry key="..\:/SHOWTICKET/app/src/main/res/layout/fragment_notification.xml" value="0.1362704918032787" />
+        <entry key="..\:/SHOWTICKET/app/src/main/res/layout/fragment_select_movie.xml" value="0.1362704918032787" />
+        <entry key="..\:/SHOWTICKET/app/src/main/res/layout/fragment_ticket.xml" value="0.16" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/SHOWTICKET/app/src/main/res/drawable-v24/curvelayout.xml" value="0.2415" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/SHOWTICKET/app/src/main/res/drawable-v24/profilecurve.xml" value="0.2415" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/SHOWTICKET/app/src/main/res/drawable-v24/select_movie_curve.xml" value="0.2415" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/SHOWTICKET/app/src/main/res/drawable/curve_edit_text.xml" value="0.2425" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/SHOWTICKET/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.2425" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/SHOWTICKET/app/src/main/res/drawable/round_button.xml" value="0.2415" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/SHOWTICKET/app/src/main/res/drawable/signin_edit_curve.xml" value="0.2415" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/SHOWTICKET/app/src/main/res/layout/activity_home.xml" value="0.17734375" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/SHOWTICKET/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/SHOWTICKET/app/src/main/res/layout/activity_main.xml" value="0.17734375" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/SHOWTICKET/app/src/main/res/layout/activity_navigation.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/SHOWTICKET/app/src/main/res/layout/activity_signin.xml" value="0.1362704918032787" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/SHOWTICKET/app/src/main/res/layout/fragment_date_of_show.xml" value="0.1362704918032787" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/SHOWTICKET/app/src/main/res/layout/fragment_help.xml" value="0.1362704918032787" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/SHOWTICKET/app/src/main/res/layout/fragment_home.xml" value="0.1362704918032787" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/SHOWTICKET/app/src/main/res/layout/fragment_movie.xml" value="0.2" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/SHOWTICKET/app/src/main/res/layout/fragment_notification.xml" value="0.1362704918032787" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/SHOWTICKET/app/src/main/res/layout/fragment_select_movie.xml" value="0.176" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/SHOWTICKET/app/src/main/res/layout/fragment_ticket.xml" value="0.1362704918032787" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/SHOWTICKET/app/src/main/res/layout/fragment_user.xml" value="0.1362704918032787" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/SHOWTICKET/app/src/main/res/menu/menu.xml" value="0.17734375" />
+        <entry key="..\:/new mca project/SHOWTICKET/app/src/main/res/drawable-v24/curvelayout.xml" value="0.239" />
+        <entry key="..\:/new mca project/SHOWTICKET/app/src/main/res/drawable-v24/select_movie_curve.xml" value="0.2235" />
+        <entry key="..\:/new mca project/SHOWTICKET/app/src/main/res/drawable/card_vew_curve.xml" value="0.239" />
+        <entry key="..\:/new mca project/SHOWTICKET/app/src/main/res/drawable/curve_edit_text.xml" value="0.239" />
+        <entry key="..\:/new mca project/SHOWTICKET/app/src/main/res/drawable/gold.xml" value="0.239" />
+        <entry key="..\:/new mca project/SHOWTICKET/app/src/main/res/drawable/platinum.xml" value="0.239" />
+        <entry key="..\:/new mca project/SHOWTICKET/app/src/main/res/drawable/signin_edit_curve.xml" value="0.239" />
+        <entry key="..\:/new mca project/SHOWTICKET/app/src/main/res/layout-land/fragment_home.xml" value="0.4" />
+        <entry key="..\:/new mca project/SHOWTICKET/app/src/main/res/layout/activity_login.xml" value="0.17734375" />
+        <entry key="..\:/new mca project/SHOWTICKET/app/src/main/res/layout/activity_main.xml" value="0.17734375" />
+        <entry key="..\:/new mca project/SHOWTICKET/app/src/main/res/layout/activity_navigation.xml" value="0.17734375" />
+        <entry key="..\:/new mca project/SHOWTICKET/app/src/main/res/layout/activity_signin.xml" value="0.17734375" />
+        <entry key="..\:/new mca project/SHOWTICKET/app/src/main/res/layout/fragment_comedy.xml" value="0.17734375" />
+        <entry key="..\:/new mca project/SHOWTICKET/app/src/main/res/layout/fragment_concert_fragment.xml" value="0.17734375" />
+        <entry key="..\:/new mca project/SHOWTICKET/app/src/main/res/layout/fragment_date_of_show.xml" value="0.17734375" />
+        <entry key="..\:/new mca project/SHOWTICKET/app/src/main/res/layout/fragment_drama.xml" value="0.17734375" />
+        <entry key="..\:/new mca project/SHOWTICKET/app/src/main/res/layout/fragment_dramafragment.xml" value="0.17734375" />
+        <entry key="..\:/new mca project/SHOWTICKET/app/src/main/res/layout/fragment_help.xml" value="0.1" />
+        <entry key="..\:/new mca project/SHOWTICKET/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/new mca project/SHOWTICKET/app/src/main/res/layout/fragment_movie.xml" value="0.176" />
+        <entry key="..\:/new mca project/SHOWTICKET/app/src/main/res/layout/fragment_movie_price.xml" value="0.17734375" />
+        <entry key="..\:/new mca project/SHOWTICKET/app/src/main/res/layout/fragment_movie_price_fragment.xml" value="0.176" />
+        <entry key="..\:/new mca project/SHOWTICKET/app/src/main/res/layout/fragment_notification.xml" value="0.174609375" />
+        <entry key="..\:/new mca project/SHOWTICKET/app/src/main/res/layout/fragment_search_and_sort.xml" value="0.17734375" />
+        <entry key="..\:/new mca project/SHOWTICKET/app/src/main/res/layout/fragment_select_movie.xml" value="0.17734375" />
+        <entry key="..\:/new mca project/SHOWTICKET/app/src/main/res/layout/fragment_ticket.xml" value="0.17734375" />
+        <entry key="..\:/new mca project/SHOWTICKET/app/src/main/res/layout/fragment_user.xml" value="0.17734375" />
+        <entry key="..\:/new mca project/SHOWTICKET/app/src/main/res/menu/menu.xml" value="0.17734375" />
+        <entry key="..\:/new mca project/SHOWTICKET/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/new mca project1/SHOWTICKET/app/src/main/res/drawable-v24/curvelayout.xml" value="0.2235" />
+        <entry key="..\:/new mca project1/SHOWTICKET/app/src/main/res/drawable-v24/select_movie_curve.xml" value="0.2235" />
+        <entry key="..\:/new mca project1/SHOWTICKET/app/src/main/res/drawable/card_vew_curve.xml" value="0.2235" />
+        <entry key="..\:/new mca project1/SHOWTICKET/app/src/main/res/drawable/curve_edit_text.xml" value="0.2235" />
+        <entry key="..\:/new mca project1/SHOWTICKET/app/src/main/res/drawable/ic_baseline_add_reaction_24.xml" value="0.2235" />
+        <entry key="..\:/new mca project1/SHOWTICKET/app/src/main/res/drawable/ic_baseline_help_24.xml" value="0.2235" />
+        <entry key="..\:/new mca project1/SHOWTICKET/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.2235" />
+        <entry key="..\:/new mca project1/SHOWTICKET/app/src/main/res/drawable/ic_showticketlogo.xml" value="0.2235" />
+        <entry key="..\:/new mca project1/SHOWTICKET/app/src/main/res/drawable/ic_signlogo.xml" value="0.2235" />
+        <entry key="..\:/new mca project1/SHOWTICKET/app/src/main/res/layout/activity_login.xml" value="0.17734375" />
+        <entry key="..\:/new mca project1/SHOWTICKET/app/src/main/res/layout/activity_main.xml" value="0.17734375" />
+        <entry key="..\:/new mca project1/SHOWTICKET/app/src/main/res/layout/activity_navigation.xml" value="0.1" />
+        <entry key="..\:/new mca project1/SHOWTICKET/app/src/main/res/layout/activity_signin.xml" value="0.17734375" />
+        <entry key="..\:/new mca project1/SHOWTICKET/app/src/main/res/layout/fragment_comedy.xml" value="0.17734375" />
+        <entry key="..\:/new mca project1/SHOWTICKET/app/src/main/res/layout/fragment_concert_fragment.xml" value="0.17734375" />
+        <entry key="..\:/new mca project1/SHOWTICKET/app/src/main/res/layout/fragment_date_of_show.xml" value="0.1" />
+        <entry key="..\:/new mca project1/SHOWTICKET/app/src/main/res/layout/fragment_dramafragment.xml" value="0.17734375" />
+        <entry key="..\:/new mca project1/SHOWTICKET/app/src/main/res/layout/fragment_help.xml" value="0.17734375" />
+        <entry key="..\:/new mca project1/SHOWTICKET/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/new mca project1/SHOWTICKET/app/src/main/res/layout/fragment_movie.xml" value="0.17734375" />
+        <entry key="..\:/new mca project1/SHOWTICKET/app/src/main/res/layout/fragment_movie_price.xml" value="0.17734375" />
+        <entry key="..\:/new mca project1/SHOWTICKET/app/src/main/res/layout/fragment_movie_price_fragment.xml" value="0.17734375" />
+        <entry key="..\:/new mca project1/SHOWTICKET/app/src/main/res/layout/fragment_notification.xml" value="0.17734375" />
+        <entry key="..\:/new mca project1/SHOWTICKET/app/src/main/res/layout/fragment_search_and_sort.xml" value="0.17734375" />
+        <entry key="..\:/new mca project1/SHOWTICKET/app/src/main/res/layout/fragment_select_movie.xml" value="0.17734375" />
+        <entry key="..\:/new mca project1/SHOWTICKET/app/src/main/res/layout/fragment_ticket.xml" value="0.17734375" />
+        <entry key="..\:/new mca project1/SHOWTICKET/app/src/main/res/layout/fragment_user.xml" value="0.17734375" />
+        <entry key="..\:/new mca project1/SHOWTICKET/app/src/main/res/menu/menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
